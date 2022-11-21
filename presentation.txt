@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 MA PRESENTATION LOCALE
+=======
+MA PRESENTATION
+>>>>>>> fd84a451bb9591ed4200a1ead694dc37414afbb0
 TAUVRON
 Simon
 21 ans
